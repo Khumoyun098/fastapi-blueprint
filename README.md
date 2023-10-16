@@ -1,0 +1,2 @@
+# fastapi-blueprint
+FastAPI Blueprint
